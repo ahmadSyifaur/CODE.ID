@@ -5,7 +5,6 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using code.id.Test_AXA.Models;
-using code.id.Test_AXA.Utility;
 using System.Net;
 using System.IO;
 using Newtonsoft.Json;
